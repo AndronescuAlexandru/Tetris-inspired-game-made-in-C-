@@ -1,4 +1,4 @@
-# Tetris-inspired-game-made-in-C-
+# Tetris-inspired-game-made-in-C++
 
 **English:**
 
