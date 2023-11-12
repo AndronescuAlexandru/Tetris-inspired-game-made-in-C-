@@ -1,6 +1,6 @@
 # Tetris-inspired-game-made-in-C-
 
-English:
+**English:**
 
 Disclaimer:
 
@@ -13,7 +13,7 @@ This project utilizes the SFML library for C++ to handle graphics and multimedia
 This game is provided "as is" without any warranty. Andronescu Alexandru makes no representations or warranties of any kind concerning this project.
 
 
-Romana:
+**Romana:**
 
 Acest joc inspirat de Tetris a fost dezvoltat de Andronescu Alexandru folosind biblioteca SFML (Simple and Fast Multimedia Library) pentru limbajul de programare C++. Este un proiect personal creat în scopuri educative și de divertisment. Acest proiect are rolul de a servi ca o experiență personală de învățare în domeniul dezvoltării de jocuri și programării în limbajul C++. Codul sursă este disponibil în scopuri educative și nu este destinat utilizării comerciale.
 
