@@ -5,9 +5,9 @@ This is a basic implementation of the game Tetris made in C++ using the SFML lib
 ![game (1)](https://github.com/AndronescuAlexandru/Tetris-inspired-game-made-in-C-/assets/128248475/70a0c014-1c5f-4e46-9168-67e0d2f61a15)
 
 
-Disclaimer:
+##**Disclaimer:**
 
-**English:**
+###**English:**
 
 This Tetris-inspired game has been developed by Andronescu Alexandru using the SFML (Simple and Fast Multimedia Library) for C++. It is a personal project created for educational and entertainment purposes. This project serves as a personal learning experience for game development and programming in C++. The source code is available for educational purposes and is not intended for commercial use.
 
@@ -18,7 +18,7 @@ This project utilizes the SFML library for C++ to handle graphics and multimedia
 This code is provided "as is" without any warranty. You're free to use this code in any project, there's no need to ask permission before using this. Giving attribution is not required, but appreciated.
 
 
-**Romana:**
+###**Romana:**
 
 Acest joc inspirat de Tetris a fost dezvoltat de Andronescu Alexandru folosind biblioteca SFML (Simple and Fast Multimedia Library) pentru limbajul de programare C++. Este un proiect personal creat în scopuri educative și de divertisment. Acest proiect are rolul de a servi ca o experiență personală de învățare în domeniul dezvoltării de jocuri și programării în limbajul C++. Codul sursă este disponibil în scopuri educative și nu este destinat utilizării comerciale.
 
